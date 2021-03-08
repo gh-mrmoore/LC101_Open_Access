@@ -1,5 +1,5 @@
-# LC101 Open Access (Python) Track
-This repository is the re-organization of code created between 2018-12-03 and 2019-02-04. I am merging those repositories that I can with their original commits, but some repositories were lost in my learning along the way.
+# LC101_Python_Web_Fundamentals
+This repository is the re-organization of code created between 2018-12-03 and 2019-02-04. I am merging those repositories that I can with their original commits, but some repositories were lost in my learning Git along the way.
 
 ## Original Class Schedule
 | Class | Date | Topic |
