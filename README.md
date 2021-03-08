@@ -1,5 +1,5 @@
 # LC101_Python_Web_Fundamentals
-This repository is the re-organization of code created between 2018-12-03 and 2019-02-04. I am merging those repositories that I can with their original commits, but some repositories were lost in my learning Git along the way.
+This repository is the re-organization of code created between 2018-08-13 and 2019-09-23. I am merging those repositories that I can with their original commits, but some repositories were lost in my learning Git along the way.
 
 ## Original Class Schedule
 | Class | Date | Topic |
